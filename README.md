@@ -7,7 +7,7 @@ The spin-boson, LVC, retinal, Tully, LCP models are reported in the following wo
 
 The multi-state harmonic (MSH) models are reported in the following work:
 
-* Quantum Dynamics in Multistate Harmonic Models using Tensor-Train Thermofield Dynamics and Semiclassical Mapping Dynamics, by Hao Zeng and Xiang Sun (submitted)
+* Hao Zeng, Xiang Sun, "Quantum Dynamics in Multistate Harmonic Models using Tensor-Train Thermofield Dynamics and Semiclassical Mapping Dynamics", (submitted).
 
 
 
