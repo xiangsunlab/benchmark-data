@@ -3,7 +3,7 @@ This repo contains the numerically exact results for various multi-dimensional m
 
 The spin-boson, LVC, retinal, Tully, LCP models are reported in the following work:
 
-* Benchmarking Various Nonadiabatic Semiclassical Mapping Dynamics Methods with Tensor-Train Thermo-Field Dynamics, by Zengkui Liu, Ningyi Lyu, Zhubin Hu, Hao Zeng, Victor S. Batista, and Xiang Sun.
+* Zengkui Liu, Ningyi Lyu, Zhubin Hu, Hao Zeng, Victor S. Batista, and Xiang Sun, "Benchmarking Various Nonadiabatic Semiclassical Mapping Dynamics Methods with Tensor-Train Thermo-Field Dynamics", J. Chem. Phys. 161, 024102 (2024). DOI: 10.1063/5.0208708
 
 The multi-state harmonic (MSH) models are reported in the following work:
 
