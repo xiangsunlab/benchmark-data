@@ -1,0 +1,15 @@
+
+F                    3                    # number of electronic states
+N                    60                   # number of real nuclear modes
+DOFn                 120                  # number of all nuclear models, including extended modes, DOFn = N*(F-1)
+
+energy_unit          cm-1                 # energy unit used in this file
+epsilon_1            20.0                 # vertical shift of the first state
+epsilon_2            -20.0                # vertical shift of the second state
+epsilon_3            0.0                  # vertical shift of the third state
+gamma_12             24.0                 # coupling between first and second state
+gamma_13             9.0                  # coupling between first and third state
+gamma_23             24.0                 # coupling between second and third state
+
+sample_state         3                    # electronic state for nuclear sampling
+init_state           1                    # initial electronic state 
